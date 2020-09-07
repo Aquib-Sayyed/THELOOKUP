@@ -1,0 +1,81 @@
+*{
+  margin:10px;
+  padding:0;
+  }
+  .frequentlyqs{
+  font-family:'fjallaone', Arial, sans-serif;
+  margin-bottom: 10px;
+  margin-bottom: 10px;
+  color: rgb(77, 74, 74);
+  font-weight: 200;
+  letter-spacing: -1px;
+  font-size: 36px;
+  line-height: 8%;
+  letter-spacing: 1px;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bolder;
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  }
+  .firstQ{
+  font-family:'Nunito', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  position: absolute;
+  top: 90px;
+  left: 40px;
+  }
+  .firstA{
+  font-size: 19px;
+  font-family:'Nunito', sans-serif;
+  position: absolute;
+  top: 130px;
+  left: 50px;
+  }
+  .secondQ{
+  font-family:'Nunito', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  position: absolute;
+  top: 90px;
+  left: 700px;
+  }
+  .secondA{
+  font-family:'Nunito', sans-serif;
+  font-size: 19px;
+  position: absolute;
+  top: 130px;
+  left: 700px;
+  }
+  
+  .thirdQ{
+  font-family:'Nunito', sans-serif;
+  font-size: 22px;
+  font-weight: bold;
+  position: absolute;
+  top: 250px;
+  left: 550px;
+  }
+  .thirdA{
+  font-family:'Nunito', sans-serif;
+  font-size: 19px;
+  position: absolute;
+  top: 290px;
+  left: 550px;
+  }
+.h41{
+    position: absolute;
+    left: 250px;
+    top:200px;
+  }
+  
+  .h42{
+    position: absolute;
+    left: 250px;
+    top:250px;
+  }
+  
